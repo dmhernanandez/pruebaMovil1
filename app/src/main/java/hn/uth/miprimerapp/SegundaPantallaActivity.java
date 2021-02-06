@@ -21,7 +21,12 @@ public class SegundaPantallaActivity extends AppCompatActivity {
         txwEtiquita1.setText(valorRecibido);
 
     }
+     /*
 
+     Agregamos comentarios al area a este archivo para verificar 
+    el funcionamiento de git
+
+*/
 
 
 }
