@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora Los Perrones 1.0 </string>
+    <string name="lbl_num1">Ingrese el primer numero</string>
+    <string name="lbl_num2">Ingrese el segundo numero</string>
+    <string name="lbl_resultado">Resultado</string>
+
+    <string name="lblCambiarTexto">Cambiar Texto</string>
+    <string name="lblRedireccionar">Redireccionar</string>
+    <string name="texto" />
+    <string name="hola_mundo">Hola Mundo</string>
+    <string name="valorTxwEtiquta1" />
+</resources>
