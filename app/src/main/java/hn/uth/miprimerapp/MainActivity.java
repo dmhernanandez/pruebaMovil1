@@ -15,8 +15,10 @@ import android.widget.Toast;
 
 import com.google.android.material.snackbar.Snackbar;
 
-public class MainActivity extends AppCompatActivity {
-
+ public class MainActivity extends AppCompatActivity {
+     /*prueba de git*/
+    Log.i("git","se agrego un msg");
+     
     EditText txtInput;
     TextView  lblEtiqueta;
     Button btnCambiarTexto;
