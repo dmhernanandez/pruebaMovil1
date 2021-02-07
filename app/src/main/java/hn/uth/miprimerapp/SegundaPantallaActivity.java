@@ -18,14 +18,18 @@ public class SegundaPantallaActivity extends AppCompatActivity {
         txwEtiquita1=findViewById(R.id.txwEtiqueta1);
 
         String valorRecibido=getIntent().getStringExtra("valor");
-        txwEtiquita1.setText(valorRecibido);
+        txwgEtiquita1.setText(valorRecibido);
 
     }
      /*
-
+     
      Agregamos comentarios al area a este archivo para verificar 
     el funcionamiento de git
 
+*/
+
+  /*
+   Segundo comentario para probar a git
 */
 
 
