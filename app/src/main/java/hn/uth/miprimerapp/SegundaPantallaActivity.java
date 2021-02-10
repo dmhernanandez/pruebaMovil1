@@ -31,6 +31,8 @@ public class SegundaPantallaActivity extends AppCompatActivity {
   /*
    Segundo comentario para probar a git
 */
+    
+    /*Este cambio de agrego desde github*/
 
 
 }
